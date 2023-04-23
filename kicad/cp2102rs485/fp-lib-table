@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cp2102rs485_localfootprints)(type KiCad)(uri ${KIPRJMOD}/cp2102rs485_localfootprints.pretty)(options "")(descr ""))
+)
