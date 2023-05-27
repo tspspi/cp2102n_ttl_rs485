@@ -1,5 +1,8 @@
 # Simple CP2102N USB to TTL and half duplex RS485 board
 
+There is an [accompanying blog article](https://www.tspi.at/2023/05/27/cp2102basics.html) 
+that explains the reasoning behind the design of this interface board.
+
 This repository contains a simple open breakout board for the CP2102N. It uses
 a simple bus powered design. All unused pins of the CP2102N are exposed via a
 16 pin pin-header so one can easily access them to experiment with the more advanced
